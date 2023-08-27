@@ -1,5 +1,5 @@
 apiVersion: v2
-appVersion: "0.20.2297"
+appVersion: "0.21.705"
 dependencies:
   - name: common
     repository: https://library-charts.truecharts.org
@@ -15,11 +15,11 @@ keywords:
 kubeVersion: ">=1.16.0-0"
 maintainers:
   - email: info@truecharts.org
-    name: TrueCharts
+    name: realRedguy
     url: https://truecharts.org
 name: jackett
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/stable/jackett
+  - https://github.com/realrEDGUY/catalogtemp/tree/main/stable/jackett
   - https://github.com/Jackett/Jackett
 type: application
 version: 15.0.0
